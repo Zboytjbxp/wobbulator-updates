@@ -1,19 +1,47 @@
-# Wobbulator downloads and updates
+# Wobbulator
 
-Official public downloads and version information for Wobbulator on Android and Windows.
+Bring a still picture to life. Paint an area, choose its motion, and change how it feels.
 
-[Download and installation guide](https://sites.google.com/view/wobbulator/install-update) · [Latest release](https://github.com/Zboytjbxp/wobbulator-updates/releases/latest) · [Official website](https://sites.google.com/view/wobbulator/home)
+Official downloads, update information and the illustrated Tool guide for **Android and Windows**.
 
-The same apps support free included examples and optional purchased activation. Free users can edit, interact with, save, reopen and copy included example projects without a time limit. Personal photos, imports, exports and backups require activation. One $6.99 USD purchase includes Android and Windows through [Lemon Squeezy](https://wobbulator.lemonsqueezy.com).
+[**Try the included examples free**](https://github.com/Zboytjbxp/wobbulator-updates/releases/latest) · [Installation help](https://sites.google.com/view/wobbulator/install-update) · [Tool guide](https://zboytjbxp.github.io/wobbulator-updates/) · [r/Wobbulator](https://www.reddit.com/r/Wobbulator/)
 
-## Current release
+## Try it free
 
-- Android **3.58** (version code **161**) — publisher-signed APK.
-- Windows **0.46** — per-user Setup installer and app, digitally signed by Michael Tingle.
-- Illustrated HTML and plain-text installation guides.
+Use the included examples without a time limit. Change their motion, try direct interaction, and save and reopen your creations.
 
-Install this release once from the official download page to enable future downloads inside Wobbulator. Android uses the system's installation confirmation. Windows saves the current work before launching its installer. Do not uninstall or clear app data to update. The download page remains available if in-app download is unavailable.
+Full personal-use access is **$6.99 USD, paid once for both apps**, through [Lemon Squeezy](https://wobbulator.lemonsqueezy.com). Full unlocks your own photos, project imports, exports, backups and Android live wallpaper.
 
-`stable.properties` is public metadata used by optional update checks. It contains version numbers, short release notes, immutable GitHub Release download locations, sizes and SHA-256 checksums. Update requests send no photos, projects, license keys or device identifiers. GitHub receives normal connection information, such as IP addresses. See the [privacy notice](https://sites.google.com/view/wobbulator/privacy).
+## Downloads
 
-Support: wobbulator.support@gmail.com. Never post license keys or private purchase details in issues.
+| App | What to download |
+| --- | --- |
+| Android | The publisher-signed APK in the [latest Stable release](https://github.com/Zboytjbxp/wobbulator-updates/releases/latest). |
+| Windows | The signed Windows Setup installer in the [latest Stable release](https://github.com/Zboytjbxp/wobbulator-updates/releases/latest). |
+
+The release page lists the current versions, changes and files. Downloading a file does not install it; follow the [installation and update guide](https://sites.google.com/view/wobbulator/install-update).
+
+## Experimental
+
+Activated Full users can try new tools in the separate Experimental app. Find the newest release marked **Experimental** in the [release list](https://github.com/Zboytjbxp/wobbulator-updates/releases). It has its own project library. Keep your original projects in Stable, and check each Experimental release's compatibility notes before sharing its projects.
+
+From Stable, activated Full users can also find the current Experimental download:
+
+- Android: **Settings → App updates → Release channel**.
+- Windows: **Help → Check for updates → Release channel**.
+
+## Learn and get help
+
+- [Illustrated Tool guide](https://zboytjbxp.github.io/wobbulator-updates/): tool explanations, examples and step-by-step recipes.
+- [Website](https://sites.google.com/view/wobbulator/home): an overview of the apps and demonstrations.
+- [Community](https://www.reddit.com/r/Wobbulator/): creations, questions and development updates.
+- Support: **wobbulator.support@gmail.com**. Keep license keys and private purchase details out of public issues.
+
+## Updates and privacy
+
+To check for updates, use **Settings → App updates** on Android or **Help → Check for updates** on Windows. Save your work first and install updates over the existing app; keep its data. Android uses its system installation confirmation. Windows saves the current work before launching Setup. The website's download guide is available if an in-app download cannot complete.
+
+`stable.properties` and `experimental.properties` provide version information, download URLs, file sizes and checksums for optional update checks. These requests send no photos, projects, license keys or device identifiers. GitHub receives normal connection information, including IP addresses. See the [privacy notice](https://sites.google.com/view/wobbulator/privacy).
+
+This repository hosts the public downloads, update feeds and Tool guide. Application source code is not included here.
+
