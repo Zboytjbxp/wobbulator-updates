@@ -10,7 +10,7 @@ Official downloads, update information and the illustrated Tool guide for **Andr
 
 Use the included examples without a time limit. Change their motion, try direct interaction, and save and reopen your creations.
 
-Full personal-use access is **$6.99 USD, paid once for both apps**, through [Lemon Squeezy](https://wobbulator.lemonsqueezy.com). Full unlocks your own photos, project imports, exports, backups and Android live wallpaper.
+Full personal-use access is **$4.99 USD, paid once for both apps**, through [Lemon Squeezy](https://wobbulator.lemonsqueezy.com). Full unlocks your own photos, project imports, exports, backups and Android live wallpaper.
 
 ## Downloads
 
